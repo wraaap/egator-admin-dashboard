@@ -1,6 +1,6 @@
 # egator-admin-dashboard
 
-# HTML/SCSS/JavaScript
+# HTML/CSS/JavaScript
 
 ---
 
